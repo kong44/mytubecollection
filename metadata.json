@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Video Embedder",
+  "description": "A simple application to add and display your favorite YouTube videos. Paste a YouTube video link to embed and watch it.",
+  "requestFramePermissions": []
+}
